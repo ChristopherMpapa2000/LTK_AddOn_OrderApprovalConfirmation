@@ -1,0 +1,31 @@
+{
+    "OrderApproval": {
+        "HeaderId": 1,
+        "Company": "47",
+        "DocNumber": "LTK0002-286-ISE",
+        "DocStatus": "B",
+        "ROAReason": "ตรวจสอบมูลค่า SN ขั้นต่า พบสินค้าใหม่ที่ไม่เคยขาย",
+        "ROADatetime": "2025-05-16T13:16:14.710Z",
+        "SalesmanCode": "LTK0002",
+        "SalesmanName": "คุณกิติปกรณ์",
+        "CustomerCode": "LTK0101F1208",
+        "CustomerName": "ร้าน ออดี้ ฮอทเบรคช้อป",
+        "Address": "890/15 ถ.ชัยชนะ ต.บางปลาสร้อย อ.เมือง จ.ชลบุรี",
+        "TelephoneNumber": "038-286348",
+        "TaxNumber": "3209900480883 ( สาขา: 0)",
+        "Total_GrandTotal": 1144.9,
+        "DocCreateTime": "20240206",
+        "DocDate": "20240206",
+        "Attactment": "https://online.ismartsales.com/webqa/file_doc/LTK0002-286-ISE.pdf",
+        "Items": [
+            {
+                "ID": 1,
+                "Email": "wolf01@ltkintertrading.com"
+            },
+            {
+                "ID": 2,
+                "Email": "wolf01@ltkintertrading.com"
+            }
+        ]
+    }
+}
